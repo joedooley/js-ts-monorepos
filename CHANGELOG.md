@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/mike-north/js-ts-monorepos/compare/v0.4.0...v0.4.1) (2020-12-07)
+
+
+### Bug Fixes
+
+* **types:** testing lerna publish ([e96ee42](https://github.com/mike-north/js-ts-monorepos/commit/e96ee42a9579711bb54befe4fbc2d956a2920f10))
+
+
+
+
+
 # 0.4.0 (2020-12-07)
 
 
