@@ -17,7 +17,7 @@
  *
  *
  * @remarks
- * All interfaces are prefixed with `I`
+ * All interfaces are prefixed with `I`.
  *
  * @packageDocumentation
  */
