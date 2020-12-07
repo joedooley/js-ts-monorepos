@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2020-12-07)
+
+
+### Bug Fixes
+
+* **types:** set versions to 0.3.0 ([1f66f8a](https://github.com/mike-north/js-ts-monorepos/commit/1f66f8af5b6f4bd0815c6078d73c7ea5a5de21ff))
+
+
+### Features
+
+* **types:** initial commit ([65dba56](https://github.com/mike-north/js-ts-monorepos/commit/65dba5610b20e877607b605120f849daf9c2b3c8))
+
+
+
+
+
 # 0.3.0 (2020-12-07)
 
 
