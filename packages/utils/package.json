@@ -1,0 +1,30 @@
+{
+  "name": "@shlack/utils",
+  "version": "0.3.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "clean": "rimraf dist *.tsbuildinfo",
+    "test": "scripty",
+    "lint": "scripty",
+    "build": "scripty"
+  },
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-typescript": "^7.12.7",
+    "@types/date-fns": "^2.6.0",
+    "@types/jest": "^26.0.16",
+    "@types/react": "^17.0.0",
+    "jest": "^26.6.3"
+  },
+  "scripty": {
+    "path": "../../scripts/packages"
+  }
+}
