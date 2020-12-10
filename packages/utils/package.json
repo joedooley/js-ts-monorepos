@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "date-fns": "^2.16.1",
-    "react": "^17.0.1"
+    "react": "^17.0.1",
+    "@shlack/types": "*"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.12.7",
